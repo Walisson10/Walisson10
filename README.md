@@ -9,4 +9,5 @@
   <img aling="center" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
   <img aling="center" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white>
   <img aling="center" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
+  <img aling="center" src=https://img.shields;io/badge/C#-F7df1e?style=for-the-badge&logo=C#&logo=c#&logoColor=blue>
 </div>
